@@ -2,7 +2,7 @@
 get coordinates and send to discord.(FiveM)
 
 
->How to use?
+>*How to use?*
 
 1 - Enter the discord webhook in the server.lua section.
 
